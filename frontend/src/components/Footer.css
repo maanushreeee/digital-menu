@@ -1,0 +1,17 @@
+/* Footer.css */
+.footer {
+  display: flex;
+  justify-content: center;  
+  align-items: center;      
+  gap: 150px;              
+  text-align: center;
+  padding: 20px;
+  background-color: #3B2F29;
+  color: #FFEFD3;
+}
+
+.footer p {
+  margin: 0;
+}
+
+  
